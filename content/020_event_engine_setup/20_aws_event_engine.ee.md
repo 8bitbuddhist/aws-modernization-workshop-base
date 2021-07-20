@@ -24,11 +24,11 @@ If you are currently logged in to an AWS Account, you can log out using this [li
 
 3. Use a single region for the duration of this workshop. This workshop supports the following regions:
 
-* us-east-1 (US East - N.Virginia)
+* us-west-2 (US West - Oregon)
 
-Please select **US East (N.Virginia)** in the top right corner.
+Please select **US West (Oregon)** in the top right corner.
 
-![Event Engine Region](/images/setup/event-engine-region.png)
+![Event Engine Region](/images/aws-pick-region.png)
 
 {{% notice warning %}}
 This account will expire at the end of the workshop and  all the resources created will be automatically de-provisioned. You will not be able to access this account after today.

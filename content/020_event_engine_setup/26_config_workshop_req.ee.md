@@ -1,7 +1,7 @@
 ---
-title: "4. Configure workshop specific requirements"
+title: "5. Configure workshop specific requirements"
 chapter: true
-weight: 16
+weight: 26
 ---
 
 ## Configure Workspace
@@ -56,4 +56,4 @@ the EKS IAM authentication, so we will disable it and rely on the IAM role inste
    If the IAM role is not valid, <span style="color: red;">**DO NOT PROCEED**</span>. Go back and confirm the steps on this page.
    {{% /notice %}}
 
-If you have completed the above instructions, please  move to the Partner Setup section!
+If you have completed the above instructions, please move to the Gremlin Setup section!

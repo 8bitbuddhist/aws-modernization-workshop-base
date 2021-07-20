@@ -1,16 +1,17 @@
 ---
-title: "AWS Modernization Workshop"
+title: "AWS Modernization Workshop with Gremlin"
 chapter: true
-weight: 1
+weight: 99
 ---
 
-# AWS Marketplace DevOps Workshop Series Hands-on Lab with Partner
+# AWS Marketplace DevOps Workshop Series Hands-on Lab with Gremlin
 
+![image](/images/gremlin_mascot.png)
 
 ### Welcome
 
-This hands-on lab is part of the AWS Marketplace DevOps Workshop Series. In this lab, you will gain experience using Partner to deploy an application to AWS EKS. Partner is a self-service CI/CD platform that allows engineers and DevOps team to build, test, deploy, and verify software, on-demand. By completing this lab you will learn how to leverage Partner for easier deployments of your applications.
+This hands-on lab is part of the AWS Marketplace DevOps Workshop Series. In this lab, you will gain experience using Gremlin to deploy an application to AWS EKS. Gremlin is an enterprise Chaos Engineering SaaS solution that enables engineers to build more reliable software and systems. Gremlin provides an easy-to-use, safe, and secure enterprise service for proactively improving the reliability of cloud infrastructure and applications. By completing this lab, you'll learn how to deploy a microservices application using EKS, deploy Gremlin to Kubernetes clusters, and use Gremlin to run experiments and validate the resiliency of your deployment.
 
-Partner is available in AWS Marketplace. AWS Marketplace is a digital software catalog that makes it easy to find, try, buy, deploy, and manage software that runs on AWS. AWS Marketplace has a broad and deep selection of ISV solutions that can help you build your ideal DevOps toolchain in the cloud.
+Gremlin is available in AWS Marketplace. AWS Marketplace is a digital software catalog that makes it easy to find, try, buy, deploy, and manage software that runs on AWS. AWS Marketplace has a broad and deep selection of ISV solutions that can help you build your ideal DevOps toolchain in the cloud.
 
-<a href="https://aws.amazon.com/marketplace/pp/B07PZY3369?&trk=el_a134p000003yrYeAAI&trkCampaign=AWSMP_pdp_dev_x_dg&sc_channel=el&sc_campaign=el_awsmp_mult&sc_outcome=Marketplace" target="_blank"><img src="/images/setup/available-in-awsmp-badge.png"></a>
+<a href="https://aws.amazon.com/marketplace/pp/B0897Z1J4S?&trk=el_a134p000003yrYeAAI&trkCampaign=AWSMP_pdp_dev_x_dg&sc_channel=el&sc_campaign=el_awsmp_mult&sc_outcome=Marketplace" target="_blank"><img src="/images/setup/available-in-awsmp-badge.png"></a>

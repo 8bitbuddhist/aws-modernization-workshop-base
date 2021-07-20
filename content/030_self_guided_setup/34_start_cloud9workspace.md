@@ -17,15 +17,15 @@ We will use Amazon Cloud9 to access our AWS accounts via the AWS CLI in this Wor
 
 ## Create a new Cloud9 IDE environment
 
-1 . Within the AWS console, use the region drop list to select **us-east-1 (N. Virginia)**.  This will ensure the workshop script provisions the resources in this same region..
+1 . Within the AWS console, use the region drop list to select **us-west-2 (Oregon)**.  This will ensure the workshop script provisions the resources in this same region..
 
 2 . Navigate to the [Cloud9 console](https://console.aws.amazon.com/cloud9/home) or just search for it under the **AWS console services** menu.
 
 3 . Click the **Create environment** button
 
-4 . For the name use `partnerName-workshop`, then click **Next step**
+4 . For the name use `Gremlin-Workshop`, then click **Next step**
 
-5 . Select the default instance type **t3.micro**
+5 . Select the default instance type **t3.medium**
 
 6 . Leave all the other settings as default and click **Next step** followed by **Create environment**
 

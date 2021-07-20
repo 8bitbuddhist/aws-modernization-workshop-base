@@ -11,26 +11,26 @@ weight: 12
 We will use Amazon Cloud9 to access our AWS accounts via the AWS CLI in this Workshop.  There are a few steps to complete to set this up
 
 1. Create a new Cloud9 IDE environment
-1. Create an IAM role for your workspace
-1. Attach the IAM role to your workspace
-1. Configure workshop specific requirements
+2. Create an IAM role for your workspace
+3. Attach the IAM role to your workspace
+4. Configure workshop specific requirements
 
 
 ## Create a new Cloud9 IDE environment
 
-1. Within the AWS console, use the region drop list to select **us-east-1 (N. Virginia)**.  This will ensure the workshop script provisions the resources in this same region..
+1. Within the AWS console, use the region drop list to select **us-west-w (Oregon)**.  This will ensure the workshop script provisions the resources in this same region..
 
 1. Navigate to the [Cloud9 console](https://console.aws.amazon.com/cloud9/home) or just search for it under the **AWS console services** menu.
 
-1. Click the **Create environment** button
+2. Click the **Create environment** button
 
-1. For the name use `partnerName-workshop`, then click **Next step**
+3. For the name use `Gremlin-Workshop`, then click **Next step**
 
-1. Select the default instance type **t3.micro**
+4. Select Other instance type, then select **t3.medium**
 
-1. Leave all the other settings as default and click **Next step** followed by **Create environment**
+5. Leave all the other settings as default and click **Next step** followed by **Create environment**
 
-<img src=/images/setup/c9create.png>
+<img src=/images/setup/c9-settings.png>
 
 {{% notice info %}}
 This will take about 1-2 minutes to provision
@@ -42,9 +42,9 @@ When the environment comes up, customize the environment by:
 
 1. Close the **welcome page** tab
 
-1. Close the **lower work area** tab
+2. Close the **lower work area** tab
 
-1. Open a new **terminal** tab in the main work area.
+3. Open a new **terminal** tab in the main work area.
 
 {{% notice tip %}}
 If you don't like this dark theme, you can change it from the **View / Themes** Cloud9 workspace menu.
