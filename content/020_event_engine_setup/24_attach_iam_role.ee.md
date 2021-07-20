@@ -1,24 +1,13 @@
 ---
-title: "3. Attach IAM Role"
+title: "4. Attach IAM Role"
 chapter: true
-weight: 14
+weight: 24
 ---
 
 ## Attach the IAM role to your instance
 
-Will need
-
-1. Follow [this deep link to find your Cloud9 EC2 instance](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances:search=aws-cloud9-{partnerName role}};sort=desc:launchTime)
-
-2. Select the instance, then choose **Actions / Security / Modify IAM role**
-
-    ![Attach IAM role](/images/setup/attachIAMrole.png)
-
-3. Choose the role that contains your Partner Name in it.
-
-    
-
-4. Click **Save**
-
-
-
+1. Follow [this deep link to find your Cloud9 EC2 instance](https://console.aws.amazon.com/ec2/v2/home?#Instances:tag:Name=aws-cloud9-.*workshop.*;sort=desc:launchTime)
+1. Select the instance, then choose **Actions / Instance Settings / Attach/Replace IAM Role**
+![c9instancerole](/images/c9instancerole.png)
+1. Choose **Gremlin-Workshop-Admin** from the **IAM Role** drop down, and select **Apply**
+![c9attachrole](/images/c9attachrole.png)
