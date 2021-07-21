@@ -18,5 +18,7 @@ Today we are going to learn the following topics:
 This workshop is broken into the sections list below.  Estimated time for completing the workshop is 1.5-2.5 hours.
 
 - **Prerequisites** ***(5 minutes)*** Provision a Cloud9 instance and validate
-- **Setup** ***(15 minutes)*** Install necessary tooling to complete the lab
-- **What will the partner section look like and how long does it take to complete**
+- **Setup** ***(20 minutes)*** Install necessary tooling to complete the lab
+- **Experiment 1** ***(25 minutes)*** Run a CPU experiment, observe the impact, and implement fixes
+- **Experiment 2** ***(15 minutes)*** Run a blackhole experiment and make observations
+- **Automate Experiments** ***(25 minutes)*** Learn how to use the Gremlin REST API, SDK, and Status Checks

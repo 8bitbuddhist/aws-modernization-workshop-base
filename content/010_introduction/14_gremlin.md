@@ -6,7 +6,7 @@ weight: 14
 
 # What is Gremlin?
 
-Gremlin is a fully hosted SaaS platform that enables engineers to build more reliable software with Chaos Engineering. Gremlin provides easy to use, safe and secure enterprise service to test the reliability of cloud infrastructure and applications. With Gremlin, you can run Chaos Engineering experiments against hosts, containers, or Kubernetes primitives in order to identify and address weaknesses before they cause problems for your customers.
+Gremlin is a hosted SaaS platform that enables engineers to build more reliable software with Chaos Engineering. Gremlin provides an easy to use, safe and secure enterprise service to test the reliability of cloud infrastructure and applications. With Gremlin, you can run Chaos Engineering experiments against hosts, containers, or Kubernetes resources in order to identify and address weaknesses before they cause problems for your customers.
 
 We offer 11 different attack types, or "Gremlins:"
 

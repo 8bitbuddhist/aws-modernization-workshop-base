@@ -3,6 +3,9 @@ title: "1.4 Benefits of Using Gremlin"
 chapter: true
 weight: 15
 ---
+
+# Benefits of Using Gremlin
+
 ![image](/images/gremlin_mascot.png)
 We’ve helped many companies successfully adopt Chaos Engineering and proactively improve the reliability of their systems:
 
