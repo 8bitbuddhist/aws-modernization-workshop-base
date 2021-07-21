@@ -1,5 +1,5 @@
 +++
-title = "1.3 Test the Sock Shop"
+title = "5.2 Test the Sock Shop"
 chapter = true
 weight = 22
 +++

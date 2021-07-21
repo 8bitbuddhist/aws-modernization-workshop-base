@@ -1,9 +1,8 @@
 +++
-title = "2.4 Observe the Impact"
+title = "6.4 Observe the Impact"
 chapter = true
 weight = 30
 +++
-# Observe the Impact
 
 While the attack is running, switch back to [Container Insights](https://console.aws.amazon.com/cloudwatch/home?region=us-west-2#container-insights:performance). If you don't see a CPU spike after a short time, try reducing the time period of the chart. While viewing the metrics, ask yourself:
 

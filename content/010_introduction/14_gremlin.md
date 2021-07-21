@@ -1,5 +1,5 @@
 ---
-title: "What is Gremlin?"
+title: "1.3 What is Gremlin?"
 chapter: true
 weight: 14
 ---

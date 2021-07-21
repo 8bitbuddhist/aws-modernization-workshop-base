@@ -4,8 +4,6 @@ chapter = true
 weight = 91
 +++
 
-# Conclusion
-
 🎉 Congratulations! 🎉 You have completed today's Chaos Engineering workshop with AWS! 
 
 ## Recap on what you have learned

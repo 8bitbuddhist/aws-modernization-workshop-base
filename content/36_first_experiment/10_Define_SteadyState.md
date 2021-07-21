@@ -1,10 +1,8 @@
 +++
-title = "2.2 Gather Baseline Observations"
+title = "6.2 Gather Baseline Observations"
 chapter = true
 weight = 10
 +++
-
-# Gather Baseline Observations
 
 Before running our experiment, we should get a baseline understanding of how our application operates under normal conditions. This includes validating the user experience, as well as collecting metrics and creating dashboards that will help us track the user experience.
 

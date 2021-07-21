@@ -1,10 +1,8 @@
 +++
-title = "Step 1: Set up Sock Shop and Gremlin"
+title = "Set up Sock Shop and Gremlin"
 chapter = true
-weight = 31
+weight = 34
 +++
-
-# Step 1: Set up Sock Shop and Gremlin
 
 In this chapter, we'll deploy our e-commerce application and Gremlin to our EKS clusters.
 

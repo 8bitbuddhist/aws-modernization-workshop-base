@@ -1,17 +1,16 @@
 +++
-title = "1.4 Install Helm"
+title = "4.3 Install helm"
 chapter = false
-weight = 25
+weight = 13
+
 +++
 
-# Install Helm
-
-[Helm](https://helm.sh/) describes itself as a "package manager for Kubernetes" and can be used to deploy resources to Kubernetes.
+[Helm](https://helm.sh/) describes itself as a 'package manager for kubernetes' and can be used to deploy resources to Kubernetes.
 
 You package your application as a **chart** which can contain templated files (usually Kubernetes resources) and default configuration **values** too use when rendering the template. Charts are reusable and values can be overriden for specific environments.
 
 {{% notice tip %}}
-We are using Helm v3 in this workshop.
+We are using Helm v3 in the workshops. So there is no `tiller`. If you are using your own environment and not the workshops **Cloud9** environment and you have Helm v2 the commands should work ok.
 {{% /notice %}}
 
 At the terminal command prompt, enter the following command to download Helm:
@@ -28,7 +27,7 @@ chmod +x ./linux-amd64/helm
 sudo mv ./linux-amd64/helm /usr/local/bin
 ```
 
-This will install `helm` in your **EKS Cluster**. To test to make sure the command is installed properly, execute the command:
+This will install `helm` in your **Cloud9** environment. To test to make sure the command is installed properly, execute the command:
 
 ```bash
 helm version

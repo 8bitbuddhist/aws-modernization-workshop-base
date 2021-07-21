@@ -1,5 +1,5 @@
 +++
-title = "2.1 Create A Hypothesis"
+title = "6.1 Create A Hypothesis"
 chapter = true
 weight = 10
 +++

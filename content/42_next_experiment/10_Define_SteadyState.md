@@ -1,10 +1,8 @@
 +++
-title = "3.2 Gather Baseline Observations"
+title = "7.2 Gather Baseline Observations"
 chapter = true
 weight = 10
 +++
-
-# Gather Baseline Observations
 
 Just like before, we want to define the baseline operations of our application. Since we've already done this in step 2.2, we can continue with our experiment. As a reminder, this is how the application performs under normal operating conditions. This includes validating the user experience, collecting metrics, and creating dashboards that accurately track the user experience.
 

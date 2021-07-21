@@ -1,10 +1,8 @@
 +++
-title = "4.4 Using Status Checks"
+title = "8.4 Using Status Checks"
 chapter = true
 weight = 24
 +++
-
-# 4.4 Using Status Checks
 
 A Status Check is an automated check that evaluates the health of your environment, and if it detects unhealthy conditions, will immediately halt the active experiment. It sends an HTTP request to an endpoint, evaluates the response status code and JSON body, and will pass or fail based on your defined criteria. The endpoint can be an application URL, a 3rd party monitoring tool, or even CloudWatch.
 

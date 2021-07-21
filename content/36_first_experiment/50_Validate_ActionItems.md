@@ -1,10 +1,9 @@
 +++
-title = "2.6 Validate Action Items"
+title = "6.5 Validate Action Items"
 chapter = true
 weight = 60
 +++
 
-# 2.6 Validate Action Items
 You've made your application more resilient by setting up auto scaling. It should look something like this:
 ![AWS Scaling policies](/images/aws_scaling_policies.png)
 

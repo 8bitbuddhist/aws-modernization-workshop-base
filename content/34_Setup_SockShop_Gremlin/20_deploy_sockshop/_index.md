@@ -1,5 +1,5 @@
 +++
-title = "1.2 Deploy the SockShop"
+title = "5.1 Deploy the SockShop"
 chapter = false
 weight = 20
 +++

@@ -1,10 +1,8 @@
+﻿---
+title: "3.4 Update IAM settings for your Workspace"
+chapter: false
+weight: 19
 ---
-title: "4. Configure workshop specific requirements"
-chapter: true
-weight: 18
----
-
-## Configure Workspace
 
 1. Return to your workspace and click the gear icon (in top right corner), or click to open a new tab and choose "Open Preferences"
 
@@ -49,5 +47,3 @@ weight: 18
    {{% notice warning %}}
    If the IAM role is not valid, <span style="color: red;">**DO NOT PROCEED**</span>. Go back and confirm the steps on this page.
    {{% /notice %}}
-
-   If you are done, please proceed to the Partner Setup section!

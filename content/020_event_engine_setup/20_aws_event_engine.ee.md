@@ -1,5 +1,5 @@
 ---
-title: "1. AWS Event Engine"
+title: "2.1 Setting up AWS Event Engine"
 chapter: true
 weight: 10
 ---

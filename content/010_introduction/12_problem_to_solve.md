@@ -1,5 +1,5 @@
 ---
-title: "What Problems Does Chaos Engineering Solve?"
+title: "1.2 What Problems Does Chaos Engineering Solve?"
 chapter: true
 draft: false
 weight: 12

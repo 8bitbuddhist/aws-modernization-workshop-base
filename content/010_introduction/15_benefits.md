@@ -1,5 +1,5 @@
 ---
-title: "Gremlin Benefits"
+title: "1.4 Benefits of Using Gremlin"
 chapter: true
 weight: 15
 ---

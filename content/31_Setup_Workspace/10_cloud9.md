@@ -1,36 +1,35 @@
----
-title: "2. Create a Workspace"
-chapter: true
-weight: 12
+﻿---
+title: "3.1 Create a Cloud9 Workspace"
+chapter: false
+weight: 10
 ---
 
-## Set up the Workspace
+## Create a Cloud9 Workspace
 
 [AWS Cloud9](https://aws.amazon.com/cloud9/) is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser. It includes a code editor, debugger, and terminal. Cloud9 comes prepackaged with essential tools for popular programming languages, including JavaScript, Python, PHP, and more, so you don’t need to install files or configure your laptop for this workshop.
 
 We will use Amazon Cloud9 to access our AWS accounts via the AWS CLI in this Workshop.  There are a few steps to complete to set this up
 
 1. Create a new Cloud9 IDE environment
-2. Create an IAM role for your workspace
-3. Attach the IAM role to your workspace
-4. Configure workshop specific requirements
+1. Create an EKS cluster
+1. Configure workshop specific requirements
 
 
 ## Create a new Cloud9 IDE environment
 
-1. Within the AWS console, use the region drop list to select **us-west-w (Oregon)**.  This will ensure the workshop script provisions the resources in this same region..
+1 . Within the AWS console, use the region drop list to select **us-west-2 (Oregon)**.  This will ensure the workshop script provisions the resources in this same region..
 
-1. Navigate to the [Cloud9 console](https://console.aws.amazon.com/cloud9/home) or just search for it under the **AWS console services** menu.
+2 . Navigate to the [Cloud9 console](https://console.aws.amazon.com/cloud9/home) or just search for it under the **AWS console services** menu.
 
-2. Click the **Create environment** button
+3 . Click the **Create environment** button
 
-3. For the name use `Gremlin-Workshop`, then click **Next step**
+4 . For the name use `Gremlin-Workshop`, then click **Next step**
 
-4. Select Other instance type, then select **t3.medium**
+5 . Select the default instance type **t3.medium**
 
-5. Leave all the other settings as default and click **Next step** followed by **Create environment**
+6 . Leave all the other settings as default and click **Next step** followed by **Create environment**
 
-<img src=/images/setup/c9-settings.png>
+<img src=/images/setup/c9create.png>
 
 {{% notice info %}}
 This will take about 1-2 minutes to provision
@@ -42,9 +41,9 @@ When the environment comes up, customize the environment by:
 
 1. Close the **welcome page** tab
 
-2. Close the **lower work area** tab
+1. Close the **lower work area** tab
 
-3. Open a new **terminal** tab in the main work area.
+1. Open a new **terminal** tab in the main work area.
 
 {{% notice tip %}}
 If you don't like this dark theme, you can change it from the **View / Themes** Cloud9 workspace menu.

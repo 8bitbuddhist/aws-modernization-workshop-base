@@ -1,10 +1,8 @@
 +++
-title = "3.3 Perform the Experiment"
+title = "7.3 Perform the Experiment"
 chapter = true
 weight = 20
 +++
-
-# Perform the Experiment
 
 Now let's run the experiment. Open the [Gremlin web app](https://app.gremlin.com). Click on **Attacks** in the left navigation bar, then click **New Attack**.
 

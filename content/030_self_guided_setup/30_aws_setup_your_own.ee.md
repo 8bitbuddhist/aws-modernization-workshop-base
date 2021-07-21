@@ -1,1 +1,0 @@
-30_aws_setup_your_own.md

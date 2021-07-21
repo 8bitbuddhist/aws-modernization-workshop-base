@@ -1,10 +1,8 @@
 ---
-title: "4. Attach IAM Role"
-chapter: true
-weight: 24
+title: "3.3 Attach the IAM role to your Workspace"
+chapter: false
+weight: 17
 ---
-
-## Attach the IAM role to your instance
 
 1. Follow [this deep link to find your Cloud9 EC2 instance](https://console.aws.amazon.com/ec2/v2/home?#Instances:tag:Name=aws-cloud9-.*workshop.*;sort=desc:launchTime)
 1. Select the instance, then choose **Actions / Instance Settings / Attach/Replace IAM Role**

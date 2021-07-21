@@ -1,10 +1,8 @@
 +++
-title = "4.1 Scheduling Experiments"
+title = "8.1 Scheduling Experiments"
 chapter = true
 weight = 10
 +++
-
-# 4.1 Scheduling Experiments
 
 The easiest way to run automated experiments is by using Gremlin's built-in scheduler. Gremlin allows you to schedule attacks to execute on certain days and within a specified time window. You can also set the maximum number of attacks a schedule can execute.
 

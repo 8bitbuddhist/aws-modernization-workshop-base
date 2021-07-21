@@ -1,10 +1,8 @@
 +++
-title = "Step 5: Adopt Gremlin Into Your Organization"
+title = "Adopt Gremlin Into Your Organization"
 chapter = true
 weight = 60
 +++
-
-# Step 5: Adopt Gremlin Into Your Organization
 
 Now that you've seen the value of Gremlin and Chaos Engineering first-hand, how do you get buy-in from your teammates and leadership?
 

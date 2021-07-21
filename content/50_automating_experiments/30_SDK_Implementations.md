@@ -1,10 +1,8 @@
 +++
-title = "4.3 Using the Gremlin SDK"
+title = "8.3 Using the Gremlin SDK"
 chapter = true
 weight = 20
 +++
-
-# 4.2 Using the Gremlin SDK
 
 Gremlin provides an open source [Python SDK](https://github.com/gremlin/gremlin-python). This allows you to easily interact with the Gremlin API from a Python application. For details, see our [GitHub repository](https://github.com/gremlin/gremlin-python).
 

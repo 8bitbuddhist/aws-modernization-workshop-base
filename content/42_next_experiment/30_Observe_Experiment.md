@@ -1,10 +1,8 @@
 +++
-title = "3.4 Observe the Impact"
+title = "7.4 Observe the Impact"
 chapter = true
 weight = 30
 +++
-
-# Observe the Impact
 
 While the attack is running, open the website in a browser and try using it like a regular user. Do you see anything unusual?
 
