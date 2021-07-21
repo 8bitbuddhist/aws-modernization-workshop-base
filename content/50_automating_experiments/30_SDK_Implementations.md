@@ -4,6 +4,8 @@ chapter = true
 weight = 20
 +++
 
+# Using the Gremlin SDK
+
 Gremlin provides an open source [Python SDK](https://github.com/gremlin/gremlin-python). This allows you to easily interact with the Gremlin API from a Python application. For details, see our [GitHub repository](https://github.com/gremlin/gremlin-python).
 
 The easiest way to get started is to install the SDK using `pip`:

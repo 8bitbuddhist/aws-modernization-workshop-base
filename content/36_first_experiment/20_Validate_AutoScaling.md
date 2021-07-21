@@ -4,6 +4,8 @@ chapter = true
 weight = 20
 +++
 
+# Perform the Experiment
+
 Now that we've defined our experiment and gathered observations, let's run the experiment. Start by opening the [Gremlin](https://app.gremlin.com) tab in your browser. On the left navigation bar, click **Attacks**, followed by **New Attack.** 
 
 ![Gremlin UI New Attack](/images/gremlin/gremlin_ui_create_new_attack.png)

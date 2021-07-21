@@ -1,10 +1,10 @@
 +++
-title = "Set up Tools"
+title = "Setup Tools"
 chapter = true
 weight = 32
 +++
 
-# Set up the Required Tools
+# Setup Tools
 
 To complete these workshop modules, you will first need to install command-line tools to manage your cluster.
 

@@ -1,10 +1,10 @@
 +++
-title = "2.5.1 Create Auto Scaling Rules"
+title = "6.5.1 Create Auto Scaling Rules"
 chapter = true
 weight = 01
 +++
 
-# 2.5.1 Create Auto Scaling Rules
+# Create Auto Scaling Rules
 
 We saw that our clusters didn't scale even when we were using 80% CPU across all three nodes. To addres this, we'll configure an Auto Scaling Group (ASG) for our cluster.
 

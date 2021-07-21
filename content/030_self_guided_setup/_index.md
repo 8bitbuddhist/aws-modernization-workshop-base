@@ -17,4 +17,4 @@ Here is a preview of what we will be setting up:
 1. Creating an IAM Role
 1. Attaching an IAM Role
 1. Configuring Cloud9 Workspace
-
+1. Installing kubectl + other tools

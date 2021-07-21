@@ -4,6 +4,8 @@ chapter = true
 weight = 20
 +++
 
+# Perform the Experiment
+
 Now let's run the experiment. Open the [Gremlin web app](https://app.gremlin.com). Click on **Attacks** in the left navigation bar, then click **New Attack**.
 
 ![Gremlin UI New Attack](/images/gremlin_ui_create_new__blackhole_attack.png)

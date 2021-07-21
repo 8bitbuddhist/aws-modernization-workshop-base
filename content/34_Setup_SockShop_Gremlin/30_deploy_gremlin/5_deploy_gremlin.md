@@ -1,10 +1,8 @@
 +++
 title = "5.3.2 Deploy Gremlin"
-chapter = true
+chapter = false
 weight = 07
 +++
-
-# Deploy Gremlin
 
 Before you can run attacks, you must deploy the Gremlin agent to your environment. But first, you need to be able to authenticate the agent with your Gremlin account.
 

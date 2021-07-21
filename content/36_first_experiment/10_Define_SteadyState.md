@@ -4,6 +4,8 @@ chapter = true
 weight = 10
 +++
 
+# Gather Baseline Observations
+
 Before running our experiment, we should get a baseline understanding of how our application operates under normal conditions. This includes validating the user experience, as well as collecting metrics and creating dashboards that will help us track the user experience.
 
 Let's take another look at the architecture of our Sock Shop application.

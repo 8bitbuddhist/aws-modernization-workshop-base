@@ -4,6 +4,8 @@ chapter = true
 weight = 20
 +++
 
+# Using the Gremlin REST API
+
 Gremlin provides a REST API that lets you programmatically perform actions, including running attacks and Scenarios. The easiest way to generate a REST API command is to create and configure an attack using the web app, scrolling to the bottom, and clicking on **Gremlin API Examples** in the bottom-right corner. The popup window contains everything you need to run your attack using the API. 
 
 ![Gremlin UI - Gremlin API Examples ](/images/gremlin_ui_api_examples.png) 

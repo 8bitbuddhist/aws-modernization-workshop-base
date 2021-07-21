@@ -4,6 +4,8 @@ chapter = true
 weight = 10
 +++
 
+# Create A Hypothesis
+
 The first experiment we'll run is to verify and fine-tune our cluster's autoscaling behavior. Autoscaling in AWS is easy to accomplish, but hard to master due to it being a means to scale infrastructure relative to traffic demands.
 
 We talked about following the scientific method when doing Chaos Engineering, starting with developing a hypothesis. To help with this, we've provided experiment cards (like the one below) to help design this experiment. 

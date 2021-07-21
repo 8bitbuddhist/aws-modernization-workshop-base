@@ -4,8 +4,6 @@ chapter = false
 weight = 4
 +++
 
-# Create a Gremlin Account
-
 {{% notice tip %}}
 If you already have a Gremlin account, simply [log in to your account](https://app.gremlin.com/login) and continue to the next step.
 {{% /notice%}}

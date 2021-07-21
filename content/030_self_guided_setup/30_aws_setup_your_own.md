@@ -1,10 +1,8 @@
 ---
 title: "2.1 AWS Account Setup"
-chapter: true
+chapter: false
 weight: 10
 ---
-
-## Setting up your AWS account
 
 {{% children %}}
 

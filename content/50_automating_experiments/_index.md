@@ -4,6 +4,8 @@ chapter = true
 weight = 50
 +++
 
+# Automate Experiments
+
 Running ad-hoc experiments are a great way of getting started with Chaos Engineering and testing for unknown conditions. However, much like quality assurance testing, the best way to ensure your applications and systems are reliable is by automating your experiments. Automation is the practice of performing chaos experiments in a **continuous** way to prevent **regression into past failures.**
 
 ## Why Automate?

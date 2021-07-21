@@ -4,6 +4,8 @@ chapter = true
 weight = 30
 +++
 
+# Observe the Impact
+
 While the attack is running, open the website in a browser and try using it like a regular user. Do you see anything unusual?
 
 - How is the user experience? Is the website slow, unresponsive, or working fine?

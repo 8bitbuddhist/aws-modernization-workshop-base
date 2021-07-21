@@ -1,5 +1,5 @@
 +++
-title = "2.5.3 Finalize Your Auto Scaling Configuration"
+title = "6.5.3 Finalize Your Auto Scaling Configuration"
 chapter = true
 weight = 03
 +++

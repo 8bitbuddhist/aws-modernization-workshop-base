@@ -1,10 +1,10 @@
 +++
-title = "2.5.2 Create a CloudWatch Alarm"
+title = "6.5.2 Create a CloudWatch Alarm"
 chapter = true
 weight = 02
 +++
 
-# 2.5.2 Create a CloudWatch Alarm
+# Create a CloudWatch Alarm
 
 We'll use a CloudWatch Alarm to trigger our Auto Scaling Group. First, we need to determine which metric we want to monitor. Since we want to scale on node CPU usage, we'll use the `node_cpu_utilization` metric.
 

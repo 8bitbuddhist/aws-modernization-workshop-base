@@ -4,6 +4,8 @@ chapter = true
 weight = 10
 +++
 
+# Scheduling Experiments
+
 The easiest way to run automated experiments is by using Gremlin's built-in scheduler. Gremlin allows you to schedule attacks to execute on certain days and within a specified time window. You can also set the maximum number of attacks a schedule can execute.
 
 As an example, we're going to run an automated shutdown attack every two days. We'll start by going back to [Gremlin](https://app.gremlin.com) and creating a new attack. Click on **Attacks** in the left navigation bar, followed by **New Attack**.

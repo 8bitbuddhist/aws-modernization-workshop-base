@@ -4,6 +4,8 @@ chapter = true
 weight = 60
 +++
 
+# Adopt Gremlin Into Your Organization
+
 Now that you've seen the value of Gremlin and Chaos Engineering first-hand, how do you get buy-in from your teammates and leadership?
 
 When presenting Chaos Engineering to your organization, start by framing it in terms of how it will help meet organizational goals. Think about the technical goals your organization is trying to achieve, such as:

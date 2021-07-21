@@ -4,6 +4,8 @@ chapter = true
 weight = 10
 +++
 
+# Create a Hypothesis
+
 For this experiment, we want to ask **what happens when the critical path has problems?**
 
 Just like the first experiment, we'll define our hypothesis. Our hypothesis is that if a component along our critical path fails, then our application will fail.

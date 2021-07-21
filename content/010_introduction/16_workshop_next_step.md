@@ -4,7 +4,7 @@ chapter: true
 weight: 16
 ---
 
-## Workshop Prerequisites
+# Workshop Next Steps
 
 There are a few prerequisite tasks you must perform before getting started on this workshop. These are:
 

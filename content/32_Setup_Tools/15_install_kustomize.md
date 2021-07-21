@@ -5,8 +5,6 @@ weight = 15
 
 +++
 
-## Install Kustomize
-
 [Kustomize](https://github.com/kubernetes-sigs/kustomize) lets you customize raw, template-free YAML files for multiple purposes, leaving the original YAML untouched and usable as is.
 
 Install kustomize for Linux:
